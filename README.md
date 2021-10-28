@@ -7,3 +7,5 @@ Title screen music is credited to [Joth.](https://opengameart.org/content/8bit-t
 Background music is credited to [FoxSynergy.](https://opengameart.org/content/grey-sector-8-bit)
 
 Explosion sound effect is credited to [Luke.RUSTLTD.](https://opengameart.org/content/bombexplosion8bit)
+
+Click [here](https://noursleiman.github.io/AsteroidShooter/) to play!
